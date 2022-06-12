@@ -4,5 +4,7 @@ Grafana dashboard for a Windows Server NAS/Plex Server. Utilizes a prometheus da
 ![image](https://user-images.githubusercontent.com/74982626/173255678-e3016f91-bc12-49f3-8752-3b9c58656dd6.png)
 
 Implemetents panels contributed by:
+
 hakob https://grafana.com/grafana/dashboards/13868
+
 Girb90 https://grafana.com/grafana/dashboards/14694
